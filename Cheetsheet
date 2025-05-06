@@ -1,1 +1,5 @@
-
+Runs Inside HTML file, at bottom of the body -Script elment - <script> </script>
+alert() - Pop-up
+onclick="" - runs code when we clicks button
+code in script - runs first, then the Onclick
+console.log(): - displayes content in the bracket in the console
